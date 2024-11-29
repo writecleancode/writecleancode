@@ -17,12 +17,12 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,styledcomponents,graphql,vite,webpack,gulp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,redux,styledcomponents,graphql,vite,webpack,gulp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vitest,jest,firebase,sass,tailwind,bootstrap,npm,git,github,vscode,figma)](https://skillicons.dev)
 
 ### Want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Contect me:
 
