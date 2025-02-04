@@ -3,13 +3,13 @@
 <h3 align="center">Front-End Developer</h3>
 &nbsp;
 
-- 🔭 Currently working as a **freelancer**
+- 🔭 Currently working as a **Junior Frontend Developer**
 
 - 💡 Keep improving in **programming**
 
-- 🌱 Planning to learn **Node.js**
+- 👯 Currently learning **Nuxt.js**.
 
-- 👯 Actively looking for a **junior Front-End job**.
+- 🌱 Planning to learn **Node.js**
 
 - 🚗 I'm passionate about **cars**
 
