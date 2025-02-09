@@ -22,7 +22,7 @@
 
 ### Want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,pinia,cypress,nodejs)](https://skillicons.dev)
 
 ### Contect me:
 
